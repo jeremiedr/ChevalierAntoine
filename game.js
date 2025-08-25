@@ -56,7 +56,7 @@ let level2 = [
 	'                                                                          ',
 	
   
-let level2 = [
+let level3 = [
   '                             E  F                                          ',
   '                           rrrrrrrrrr                                  z c ', // +1 z
   '                   p       S cc                                            ',
@@ -76,7 +76,7 @@ let level2 = [
   'RRRRRRRRRRR  RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR  RRRRRRRRRRRRRR',
 ];
 
-let level3 = [
+let level4 = [
   '                                                 p                                       ',
   '                                               B   F                                     ',
   '                                              ssssss                                     ',
@@ -95,7 +95,7 @@ let level3 = [
   'DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD',
 ];
 
-let levels = [level1, level2, level3];
+let levels = [level1, level2, level3, level4];
 
 let levelImages = null;
 

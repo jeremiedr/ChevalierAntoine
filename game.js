@@ -97,7 +97,7 @@ let level4 = [
 
 let levels = [level1, level2, level3, level4];
 
-// let levelImages = null;
+ let levelImages = null;
 
 /* ============================= ASSETS & AUDIO ============================= */
 

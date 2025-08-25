@@ -49,11 +49,11 @@ let level2 = [
   '                                                                          ',
   '                                      c                                   ',
   '                                                                          ',
+  'gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg',
   'dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd',
-  '                                                                          ',
-  '                                                                          ',
-  '                                                                          ',
-  '                                                                          ',
+  'dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd',
+  'dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd',
+  'dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd',
 ];
   
 let level3 = [
@@ -237,8 +237,8 @@ if (window.Canvas) {
 
   // Joueur
   box = new Sprite();
-  box.x = 100;
-  box.y = 100;
+  box.x = 20;
+  box.y = 800;
   box.rotationLock = true;
   box.color = 'red';
   box.width = 11;

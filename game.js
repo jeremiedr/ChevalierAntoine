@@ -48,7 +48,7 @@ let level2 = [
   '                                                                          ',
   '                                                                          ',
   '                                      c                                   ',
-  '                                                                          ',
+  'cccccccccccccccccccccccccc                                                ',
   'gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg',
   'dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd',
   'dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd',
@@ -95,7 +95,7 @@ let level4 = [
   'DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD',
 ];
 
-let levels = [level2, level1, level3, level4];
+let levels = [level1, level2, level3, level4];
 
  // let levelImages = null;
 

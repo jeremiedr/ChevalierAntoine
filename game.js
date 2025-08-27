@@ -237,7 +237,7 @@ if (window.Canvas) {
 
   // Joueur
   box = new Sprite();
-  box.x = 50;
+  box.x = 5;
   box.y = 2000;
   box.rotationLock = true;
   box.color = 'red';

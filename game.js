@@ -5,8 +5,8 @@ const ENEMY_SPAWN_OFFSET = 16;   // spawn 1 tuile devant le tireur (éviter les 
 
 /* =========================== COULEURS pour tiles =========================== */
 const COLOR_TO_LETTER = {
-  '000000': ' ',   // black → empty
-  'ffffff': ' ',   // white → empty
+  '000000': 'u',   // black → empty
+  'ffffff': 'D',   // white → empty
   '00ff00': 'g',   // green → grass
   '7f3f00': 'd',   // brown → dirt
   '808080': 'r',   // gray  → rock

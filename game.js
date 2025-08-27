@@ -37,7 +37,7 @@ let level1 = [
   'ddddddddddddd       dddddddddddddgggggggggggddddddddddddddddddddddddddddddd',
 ];
 
-let level2 = [
+let level = [
   '                                                                          ',
   '                                                                          ',
   '                                                                          ',
